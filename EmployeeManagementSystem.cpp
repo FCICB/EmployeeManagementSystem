@@ -48,7 +48,7 @@ int main()
             cout << "Enter Employee Id : \n";
             cin >> Id;
             Employee a = db.SearchById(Id);
-            a.display();
+            //a.display();
             string Name, Position;
             double Salary;
             cout << "Enter Your New Information :(Name->Position->Salary) \n";
