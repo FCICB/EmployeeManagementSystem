@@ -5,21 +5,21 @@
 *program allow user to manage a list of employees and their information.*
 **After you run the project menue will appear to choose one option from your list which are:**
 
--add new record
+>add new record
 
--delete an existing record
+>delete an existing record
 
--edit an existing record
+>edit an existing record
 
--search for existing record
+>search for existing record
 
--sort employee records according to name & salary
+>sort employee records according to name & salary
 
--adjust for employee record by fixed amount & percentage
+>adjust for employee record by fixed amount & percentage
 
 **this program stores employee information in file** 
 
-***How To Run Code***
+## How To Run Code
 
 1-download all files in repositry
 
