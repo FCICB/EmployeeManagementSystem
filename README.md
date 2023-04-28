@@ -21,7 +21,7 @@
 
 ## How To Run Code
 
-1-download all files in repositry
+1>download all files in repositry
 
 2-install visual studio (VS)
 
