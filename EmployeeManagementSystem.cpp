@@ -161,29 +161,4 @@ int main()
 
 
 }
-/*void DisplayMenue()
-{
-    cout<<"-------Employee Management System------\n"
-          "1-ADD Employee \n"
-          "2-Edit Employee Record \n"
-          "3-Delete Employee Record \n"
-          "4-Display Employee Information \n"
-          "5-Display Employee Information By Salary \n"
-          "6-Sort Employee By Name \n"
-          "7-Sort Employee By Salary \n"
-          "8-Search for Employee Record By Name \n"
-          "9-Search Employee Record By Position \n"
-          "10-Search Employee Record By Salary \n"
-          "11-Adjust Employee Record By Fixed Amount \n"
-          "12-Adjust Employee Record By Percentage \n"
-          "13-Exit \n"
-          "====Enter your Choice==== : \n";
-
-}
-int getChoice()
-{
-    int choice;
-    cin>>choice;
-    return choice;
-}
-*/
+ 
