@@ -23,14 +23,14 @@
 
 >1-download all files in repositry
 
-2-install visual studio (VS)
+>2-install visual studio (VS)
 
-3-install c/c++ extension pack from Visual Studio extensions
+>3-install c/c++ extension pack from Visual Studio extensions
 
-4-download mingw a c++ compiler or other compilers
+>4-download mingw a c++ compiler or other compilers
 
-5-open project folder in Visual Studio
+>5-open project folder in Visual Studio
 
-6-build and run project 
+>6-build and run project 
 
 ***after all steps the code will run and display on console the menue to choose***
