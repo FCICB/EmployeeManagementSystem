@@ -3,7 +3,7 @@
 #include <string>
 using namespace std;
 Employee::Employee() {}
-//constructor
+ 
 Employee::Employee(string name, string position, int id, double salary)
     :Name(name), Position(position), Id(id), Salary(salary) {} //intialize
 
@@ -50,15 +50,7 @@ bool Employee::operator<(const Employee& other)const
 {
     return this->Name < other.Name;
 }
-/*
-bool Employee::operator<(const Employee& other)const
-{
-     if(Name<other.Name)
-      return true
-     else
-        return false;
-}
-*/
+ 
 bool Employee::operator>(const Employee& other)const
 {
     return this->Name > other.Name;
