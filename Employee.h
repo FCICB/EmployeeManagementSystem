@@ -15,7 +15,7 @@ public:
     string getPosition()const;
     int getId()const;
     double getSalary()const;
-    void display()const; //read only
+    void display()const;  
     bool operator <(const Employee& other)const;
     bool operator >(const Employee& other)const;
     bool operator ==(const Employee& other)const;
@@ -30,4 +30,4 @@ private:
 };
 
 
-#endif // EMPLOYEE_H_INCLUDED
+#endif  
