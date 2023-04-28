@@ -9,7 +9,7 @@ class EmployeeDb : public Employee
 {
 public:
     EmployeeDb();
-    void LoadInfo(string filePath);//send obj
+    void LoadInfo(string filePath); 
     void AddEmployee(Employee& e);
     void SaveEmployee(string filepath);
     void Editemployee(int Id, Employee& e);
@@ -24,10 +24,8 @@ public:
     Employee& SearchById(int Id);
     void AdjustByAmount(double amount);
     void AdjustByPercentage(double percentage);
-    /*
-    void DisplayPosition()const;
-    void DisplayName()const;*/
+    
 private:
-    // vector<Employee>employee;//object;
+    
 };
-#endif // EMPLOYEE_H_INCLUDED
+#endif 
